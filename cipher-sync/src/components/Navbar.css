@@ -1,0 +1,19 @@
+.cipher__navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    width: 100%;
+    padding: 1.5rem 2rem;
+}
+
+.cipher__navbar-links {
+    display: flex;
+    justify-content: space-between;  
+}
+
+.cipher__navbar-links a {
+    color: white;
+    font-size: 18px;
+    list-style: none;
+    text-decoration: none;
+}
